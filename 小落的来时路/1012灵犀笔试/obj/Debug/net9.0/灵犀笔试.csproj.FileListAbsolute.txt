@@ -1,0 +1,15 @@
+E:\xl-theway\小落的来时路\灵犀笔试\bin\Debug\net9.0\灵犀笔试.exe
+E:\xl-theway\小落的来时路\灵犀笔试\bin\Debug\net9.0\灵犀笔试.deps.json
+E:\xl-theway\小落的来时路\灵犀笔试\bin\Debug\net9.0\灵犀笔试.runtimeconfig.json
+E:\xl-theway\小落的来时路\灵犀笔试\bin\Debug\net9.0\灵犀笔试.dll
+E:\xl-theway\小落的来时路\灵犀笔试\bin\Debug\net9.0\灵犀笔试.pdb
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.GeneratedMSBuildEditorConfig.editorconfig
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.AssemblyInfoInputs.cache
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.AssemblyInfo.cs
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.csproj.CoreCompileInputs.cache
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.sourcelink.json
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.dll
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\refint\灵犀笔试.dll
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.pdb
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\灵犀笔试.genruntimeconfig.cache
+E:\xl-theway\小落的来时路\灵犀笔试\obj\Debug\net9.0\ref\灵犀笔试.dll
