@@ -1,0 +1,15 @@
+E:\xl-theway\newker_code\笔试模板\bin\Debug\net9.0\newker_templates.exe
+E:\xl-theway\newker_code\笔试模板\bin\Debug\net9.0\newker_templates.deps.json
+E:\xl-theway\newker_code\笔试模板\bin\Debug\net9.0\newker_templates.runtimeconfig.json
+E:\xl-theway\newker_code\笔试模板\bin\Debug\net9.0\newker_templates.dll
+E:\xl-theway\newker_code\笔试模板\bin\Debug\net9.0\newker_templates.pdb
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.GeneratedMSBuildEditorConfig.editorconfig
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.AssemblyInfoInputs.cache
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.AssemblyInfo.cs
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.csproj.CoreCompileInputs.cache
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.sourcelink.json
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.dll
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\refint\newker_templates.dll
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.pdb
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\newker_templates.genruntimeconfig.cache
+E:\xl-theway\newker_code\笔试模板\obj\Debug\net9.0\ref\newker_templates.dll

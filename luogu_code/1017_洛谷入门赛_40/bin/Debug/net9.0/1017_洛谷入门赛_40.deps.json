@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1017_洛谷入门赛_40/1.0.0": {
+        "runtime": {
+          "1017_洛谷入门赛_40.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1017_洛谷入门赛_40/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
