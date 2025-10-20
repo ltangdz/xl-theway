@@ -26,6 +26,30 @@
 
 
 
+## NO472 25.10.19
+
+**#1** 枚举
+[3718. 缺失的最小倍数](https://leetcode.cn/problems/smallest-missing-multiple-of-k/)
+
+**#2** 枚举
+[3719. 最长平衡子数组 I](https://leetcode.cn/problems/longest-balanced-subarray-i/)
+
+**#3** 贪心 + 计数
+[3720. 大于 target 的最小字典序排列](https://leetcode.cn/problems/lexicographically-smallest-permutation-greater-than-target/)
+
+**#4** 前缀和 + lazy线段树（有区间更新）
+[3721. 最长平衡子数组 II](https://leetcode.cn/problems/longest-balanced-subarray-ii/)
+
+
+
+补题：
+
+1. 贪心题单 **§3.1 字典序最小/最大**
+2. 前缀和
+3. 线段树
+
+
+
 # 双周赛
 
 ## NO167 25.10.11
