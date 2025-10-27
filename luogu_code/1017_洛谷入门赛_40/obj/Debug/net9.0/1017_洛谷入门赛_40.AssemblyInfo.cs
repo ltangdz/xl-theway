@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1017_洛谷入门赛_40")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9a4705c445ffedc3f962aa9393249cf721f82a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964097e9761ef817d2d6692e3c6b5fe13542f761")]
 [assembly: System.Reflection.AssemblyProductAttribute("1017_洛谷入门赛_40")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1017_洛谷入门赛_40")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
