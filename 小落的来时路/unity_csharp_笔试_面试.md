@@ -767,9 +767,9 @@ $$
 
 
 
-## 25.10.22
+## 25.10.29
 
-
+### #4 死锁的4个条件？
 
 
 
@@ -807,3 +807,12 @@ $$
 
 
 
+## #4
+
+（1） [互斥条件](https://zhida.zhihu.com/search?content_id=2457597&content_type=Article&match_order=1&q=互斥条件&zhida_source=entity)：一个资源每次只能被一个进程使用。
+
+（2） [请求与保持条件](https://zhida.zhihu.com/search?content_id=2457597&content_type=Article&match_order=1&q=请求与保持条件&zhida_source=entity)：一个进程因请求资源而阻塞时，对已获得的资源保持不放。
+
+（3） [不可剥夺条件](https://zhida.zhihu.com/search?content_id=2457597&content_type=Article&match_order=1&q=不剥夺条件&zhida_source=entity):进程已获得的资源，在末使用完之前，不能强行剥夺。
+
+（4） [循环等待条件](https://zhida.zhihu.com/search?content_id=2457597&content_type=Article&match_order=1&q=循环等待条件&zhida_source=entity):若干进程之间形成一种头尾相接的循环等待资源关系。
