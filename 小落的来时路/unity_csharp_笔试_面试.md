@@ -338,8 +338,7 @@
 
 15选择 4问答 2编程 60min
 
-最幽默的笔试 没有之一
-<img src="images/unity_csharp_笔试_面试/588c851c19b792381ff01598bfe69aea.png" alt="588c851c19b792381ff01598bfe69aea" style="zoom: 50%;" /><img src="images/unity_csharp_笔试_面试/e45a8dc57edde5900a5358f9a5e71859.png" alt="e45a8dc57edde5900a5358f9a5e71859" style="zoom:50%;" />
+不可说不可说
 
 
 
@@ -477,7 +476,7 @@
    D. deque支持在两端快速插入和删除，同时也支持随机访问，但内存连续性不如vector
 
 3. 关于C++中的std::variant，下列说法正确的有()
-   A. 访问std::variant中的值可以使用std::get<T>或std::get<I>函数
+   A. 访问std::variant中的值可以使用std::get\<T>或std::get\<I>函数
    B. std::variant是C++17引入的类型安全的联合体
    C. std::variant保证内存布局紧凑，不会有额外的开销
    D. 可以使用std::visit对variant进行类型分发，实现类似虚函数的多态行为
